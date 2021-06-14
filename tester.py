@@ -15,5 +15,3 @@ result = rm.returnResult()
 
 for list in result:
     print(list)
-
-    
